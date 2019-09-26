@@ -1,2 +1,2 @@
 # CohLinkChain
-A New Reversible Data Hiding in Encrypted Image Based On Convolution Algorithm
+A Reversible Data Hiding in Encrypted Image Based On Convolution Algorithm
